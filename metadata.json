@@ -1,0 +1,6 @@
+{
+  "name": "Task Flow",
+  "description": "Full-stack task management application with user authentication, real-time live sync, Kanban boards, list view, priorities, subtasks, and team activity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
