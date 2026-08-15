@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/3f154bae-6c81-42de-8ace-55546
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+   https://taskmanagement-1-v7m5.onrender.com
+
