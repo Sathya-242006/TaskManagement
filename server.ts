@@ -7,7 +7,7 @@ import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI } from '@google/genai';
 
 const JWT_SECRET = process.env.JWT_SECRET || 'taskflow-secret-key-super-secure-2026';
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 
 interface UserRecord {
   id: string;
